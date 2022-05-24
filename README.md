@@ -5,11 +5,11 @@ This library is for working with A1 notations such as "A1" or "A1:B2". The libra
 
 ### Install
 ```
-npm i @flighter/a1-notation -d
+npm i @segment/a1-notation -d
 ```
 Or
 ```
-yarn add @flighter/a1-notation
+yarn add @segment/a1-notation
 ```
 
 ### Download
@@ -32,9 +32,9 @@ yarn add @flighter/a1-notation
 
 ## Initialization
 ```js
-import A1 from '@flighter/a1-notation';
+import A1 from '@segment/a1-notation';
 // or
-const A1 = require('@flighter/a1-notation');
+const A1 = require('@segment/a1-notation');
 ```
 
 ## API
